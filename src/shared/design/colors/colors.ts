@@ -7,6 +7,7 @@ export const colors = {
     accent: '#CFFF57',
     reduced: '#131420',
     surface: '#FFFFFF',
+    surfaceSecondary: '#FFFFFF0D',
   },
   text: {
     primary: '#FFFFFFF2',
